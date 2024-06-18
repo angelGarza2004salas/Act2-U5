@@ -1,0 +1,16 @@
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\bin\Debug\net8.0-windows\Array_App2.exe
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\bin\Debug\net8.0-windows\Array_App2.deps.json
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\bin\Debug\net8.0-windows\Array_App2.runtimeconfig.json
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\bin\Debug\net8.0-windows\Array_App2.dll
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\bin\Debug\net8.0-windows\Array_App2.pdb
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\obj\Debug\net8.0-windows\Array_App2.Form1.resources
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\obj\Debug\net8.0-windows\Array_App2.csproj.GenerateResource.cache
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\obj\Debug\net8.0-windows\Array_App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\obj\Debug\net8.0-windows\Array_App2.AssemblyInfoInputs.cache
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\obj\Debug\net8.0-windows\Array_App2.AssemblyInfo.cs
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\obj\Debug\net8.0-windows\Array_App2.csproj.CoreCompileInputs.cache
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\obj\Debug\net8.0-windows\Array_App2.dll
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\obj\Debug\net8.0-windows\refint\Array_App2.dll
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\obj\Debug\net8.0-windows\Array_App2.pdb
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\obj\Debug\net8.0-windows\Array_App2.genruntimeconfig.cache
+C:\Users\Sgar2\OneDrive\Desktop\Trabajos de A\Array_App2\Array_App2\obj\Debug\net8.0-windows\ref\Array_App2.dll
